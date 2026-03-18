@@ -1,83 +1,50 @@
-# 🌐 Velix Web - Soluções Digitais Inovadoras
+<html>
+  <img src="IMG1" alt="" width="50%">
+</html>
+---
 
-**Transformando ideias em experiências digitais extraordinárias**
+## 👨‍💻 About Me
+
+```
+> Initializing developer profile...
+
+Name: Enzo
+Role: Software Developer
+Status: Continuous Improvement
+Focus: Code • Problem Solving • Innovation
+```
+
+I am a dedicated software developer with a strong passion for building efficient and scalable solutions. I approach programming with a mindset of continuous learning, always seeking to improve my skills and stay updated with new technologies.
+
+I enjoy solving complex problems, developing practical applications, and transforming ideas into functional systems. My focus is on writing clean, maintainable code while delivering reliable results.
 
 ---
 
-## 💼 Sobre a Velix Web
+## ⚔️ Skills
 
-A **Velix Web** é uma empresa especializada em soluções digitais personalizadas. Nossa missão é transformar ideias em experiências online eficazes e impactantes.
-
-### 🎯 Nossa Visão
-Ser referência em soluções digitais inovadoras, combinando criatividade, tecnologia e estratégia para gerar valor real aos nossos clientes.
-
-### 🚀 Nossa Missão  
-Criar soluções digitais que conectam negócios aos seus objetivos, oferecendo tecnologia acessível e resultados tangíveis.
-
----
-
-## 🛠️ Nossos Serviços
-
-### **Soluções Web Completas**
-- Desenvolvimento de plataformas digitais
-- Criação de experiências online
-- Sistemas sob medida para seu negócio
-
-### **Design Digital**
-- Interfaces modernas e funcionais
-- Experiência do usuário otimizada
-- Identidade visual consistente
-
-### **Consultoria Técnica**
-- Análise de necessidades digitais
-- Estratégias de presença online
-- Suporte e orientação contínua
+```
+[██████████] Problem Solving
+[██████████] Programming
+[█████░░░░░] Creativity
+[████████░░] Learning Agility
+```
 
 ---
 
-## 💻 Nossa Expertise
+## 🚀 Current Focus
 
-- **Desenvolvimento** - Criação de soluções digitais robustas
-- **Design** - Interfaces atrativas e funcionais
-- **Integração** - Conexão entre diferentes sistemas
-- **Otimização** - Performance e velocidade aprimoradas
-- **Suporte** - Acompanhamento pós-entrega
-
----
-
-## 🏆 Nossos Diferenciais
-
-- **⚡ Agilidade** - Entregas rápidas e eficientes
-- **🎯 Personalização** - Cada projeto é único
-- **📞 Suporte** - Atendimento dedicado
-- **💰 Custo-Benefício** - Preços justos e competitivos
-- **🔄 Tecnologia Atual** - Sempre atualizados
+```
+> Enhancing technical expertise
+> Building impactful projects
+> Exploring new technologies and tools
+```
 
 ---
 
-## 📋 Como Trabalhamos
+## 🌌 Philosophy
 
-- **Planejamento** - Análise das suas necessidades
-- **Design** - Criação do layout e protótipo
-- **Desenvolvimento** - Codificação e testes
-- **Entrega** - Site no ar com treinamento
-- **Suporte** - Manutenção contínua
+```
+"Consistency and continuous improvement are the foundation of long-term success."
+```
 
 ---
-
-## 🎯 Quem Atendemos
-
-- **Empresas** - Negócios de diversos portes
-- **Empreendedores** - Projetos em crescimento
-- **Organizações** - Instituições diversas
-- **Profissionais** - Atuação independente
-
----
-
-## 📞 Fale Conosco
-
-**Pronto para transformar sua presença digital?**
-
-Solicite um orçamento gratuito e descubra como podemos ajudar seu negócio a crescer online.
-
-**Velix Web - Suas ideias na web!**
