@@ -5,7 +5,7 @@
 </div>
 
 <div align="left">
-  <h2><strong>PROFESSIONAL PROFILE</strong></h2>
+  <h2><strong>PROFILE</strong></h2>
   <p>
     Software Developer with hands-on experience in building applications, solving complex problems, 
     and developing efficient systems. I work across the full development process — from understanding 
