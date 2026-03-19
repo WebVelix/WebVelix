@@ -96,5 +96,4 @@
 
 <div align="center">
   <p><strong>AVAILABLE FOR OPPORTUNITIES</strong></p>
-  <p>Developed by Enzo</p>
 </div>
